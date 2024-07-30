@@ -1,6 +1,6 @@
-# personify_app
+# Introuduction
 
-This template should help get you started developing with Vue 3 in Vite.
+Frontend App for Project Personify. Developed in Vue3 and Vite.
 
 ## Recommended IDE Setup
 
