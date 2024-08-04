@@ -15,7 +15,7 @@
     import Stats from "./components/Stats.vue";
 
     export default {
-        name: "dashboard-component",
+        name: "Dashboard",
         components: {
             Profile,
             Tasks,
